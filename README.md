@@ -1,4 +1,5 @@
 # Subject: Object-oriented Programming
-> Big Assignment of TDTU
 
-This assignment is graded by machine according to test cases and has plagiarism check. But I got 10 points for the above exercise.
+> Big Assignment of Ton Duc Thang University
+
+This assignment is machine graded based on test cases and has plagiarism check. This assignment helps me understand more about object oriented programming in Java. Of course, I got 10 for this assignment.
