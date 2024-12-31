@@ -138,7 +138,7 @@ This project simulates a payment management system with three payment service ty
 
 ---
 
-## ⚖️ Rules and Regulations
+## 📏 Rules and Regulations
 - Use **Java 11** or **Java 8**.
 - Do not alter method names or signatures.
 - Avoid hardcoding file paths.
