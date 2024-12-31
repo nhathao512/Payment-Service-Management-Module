@@ -147,6 +147,9 @@ This project simulates a payment management system with three payment service ty
 
 ---
 
+## ⚖️ License
+This project is licensed under the [License](LICENSE.md).
+
 ## 🤝 Acknowledgements
 Special thanks to Ton Duc Thang University and the Faculty of Information Technology for providing this comprehensive exercise in Object-Oriented Programming.
 
