@@ -56,7 +56,7 @@ This project simulates a payment management system with three payment service ty
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/PaymentManagementModule.git
+   git clone https://github.com/nhathao512/Payment-Service-Management-Module.git
    cd PaymentManagementModule
    ```
 
