@@ -54,16 +54,22 @@ This project simulates a payment management system with three payment service ty
 
 ## 🔧 Setup and Execution
 
-1. **Input Files**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YourUsername/PaymentManagementModule.git
+   cd PaymentManagementModule
+   ```
+
+2. **Input Files**
    - Ensure the `input` directory contains the required files: `IDCard.txt`, `PaymentInformation.txt`, `TopUpHistory.txt`, and `Bill.txt`.
 
-2. **Compilation**
+3. **Compilation**
    - Use `javac` to compile all `.java` files:
      ```bash
      javac *.java
      ```
 
-3. **Execution**
+4. **Execution**
    - Run the provided test files to validate the implementation of each requirement:
      ```bash
      java TestReq1   # Test Requirement 1
@@ -71,7 +77,7 @@ This project simulates a payment management system with three payment service ty
      java Test       # Test Requirements 3-9
      ```
 
-4. **Output Files**
+5. **Output Files**
    - Results will be written to the `output` directory for comparison with expected results in the `expected_output` folder.
 
 ---
@@ -154,3 +160,5 @@ This project is licensed under the [License](LICENSE.md).
 Special thanks to Ton Duc Thang University and the Faculty of Information Technology for providing this comprehensive exercise in Object-Oriented Programming.
 
 ---
+
+Thank you for visiting this repository! Feel free to clone, explore, and contribute ❤️.
