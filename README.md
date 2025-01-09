@@ -161,4 +161,8 @@ Special thanks to Ton Duc Thang University and the Faculty of Information Techno
 
 ---
 
+## 🧑‍💻Author
+* [Võ Nhật Hào](https://github.com/nhathao512)
+
+
 Thank you for visiting this repository! Feel free to clone, explore, and contribute ❤️.
