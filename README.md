@@ -159,10 +159,9 @@ This project is licensed under the [License](LICENSE.md).
 ## 🤝 Acknowledgements
 Special thanks to Ton Duc Thang University and the Faculty of Information Technology for providing this comprehensive exercise in Object-Oriented Programming.
 
----
-
 ## 🧑‍💻Author
 * [Võ Nhật Hào](https://github.com/nhathao512)
 
+---
 
-Thank you for visiting this repository! Feel free to clone, explore, and contribute ❤️.
+##Thank you for visiting this repository! Feel free to clone, explore, and contribute ❤️.
